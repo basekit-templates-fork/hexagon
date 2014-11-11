@@ -1,4 +1,4 @@
 Hexagon
 =========
 
-Basekit theme
+Basekit Enom Software Engineering theme
