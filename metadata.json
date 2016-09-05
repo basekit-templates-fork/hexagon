@@ -1,54 +1,64 @@
 {
-	"name":"Hexagon",
-	"thumbnail":"hexagon.png",
-	"screenshot":"hexagon.png",
-    "templateType":"standard",
-    "tags": { "en": ["business", "modern", "light", "social", "contrast", "space"] },
-    "pageTypes":["home"],
-    "colorSwatches":
-    {
+    "name": "Hexagon",
+    "thumbnail": "hexagon.png",
+    "screenshot": "hexagon-screenshot.jpg",
+    "templateType": "standard",
+    "tags": {
+        "en": [
+            "business",
+            "modern",
+            "light",
+            "social",
+            "contrast",
+            "space"
+        ]
+    },
+    "pageTypes": [
+        "home"
+    ],
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#00589A",
-            "color3":"#EFA72D",
-            "color4":"#444444",
-            "color5":"#7d7d7d",
-            "color6":"#444444",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#00589A",
+            "color3": "#EFA72D",
+            "color4": "#444444",
+            "color5": "#7d7d7d",
+            "color6": "#444444",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#EFA72D",
-            "color3":"#D62D37",
-            "color4":"#1e1e1e",
-            "color5":"#7d7d7d",
-            "color6":"#1e1e1e",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#EFA72D",
+            "color3": "#D62D37",
+            "color4": "#1e1e1e",
+            "color5": "#7d7d7d",
+            "color6": "#1e1e1e",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#AED698",
-            "color3":"#CFA446",
-            "color4":"#1e1e1e",
-            "color5":"#7d7d7d",
-            "color6":"#1e1e1e",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#AED698",
+            "color3": "#CFA446",
+            "color4": "#1e1e1e",
+            "color5": "#7d7d7d",
+            "color6": "#1e1e1e",
+            "color7": "#fafafa"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#821A19",
-            "color3":"#6AAF45",
-            "color4":"#282720",
-            "color5":"#878986",
-            "color6":"#282720",
-            "color7":"#fafafa"
+            "color1": "#ffffff",
+            "color2": "#821A19",
+            "color3": "#6AAF45",
+            "color4": "#282720",
+            "color5": "#878986",
+            "color6": "#282720",
+            "color7": "#fafafa"
         }
     },
-    "images":[
+    "images": [
         "images/feature-img.jpg"
     ],
     "fontSwatch": {
-       "title": "Roboto / Source Sans Pro / Cabin",
+        "title": "Roboto / Source Sans Pro / Cabin",
         "font1": {
             "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "32px",
@@ -99,7 +109,7 @@
             "color-hover": "@color-swatch3",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "14px",
